@@ -14,13 +14,19 @@ Esquema de la PCB.
 
 ![image](https://github.com/user-attachments/assets/db10893f-e55e-48ab-971e-b9dcdc386a5f)
 
-
+Conexiones en la Raspberry Pi, arriba se pueden ver los cables de la pantalla, y abajo los que van a la PCB.
 
 ![image](https://github.com/user-attachments/assets/2e706b93-766c-45e6-8927-261293a4f9d7)
 
+La PCB en si, a la derecha las conexiones con el arduino, y a la izquierda a la caja antirrebotes.
+
 ![image](https://github.com/user-attachments/assets/93123d4b-61b5-43a2-874c-01686146d2b4)
+
+Entradas que van de la PCB a las dos primeras conexiones de la caja antirrebotes.
 
 
 https://github.com/user-attachments/assets/b4657882-f451-426d-b671-6650030cd52a
+
+Demo de la pantalla funcionando.
 
 
