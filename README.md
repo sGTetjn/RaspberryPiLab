@@ -9,9 +9,12 @@ La interfaz grafica esta basada en la biblioteca de PyGame, por lo que para modi
 Actualmente se utilizan los pines 17 y 18 para mandar las señales, pero esta decision es arbitraria, se puede utilizar cualquier pin, mientras este tenga capacidades de PWM (Power Wave Modulation).
 
 <img width="462" alt="{631F12EC-8A19-4CA5-A3E9-25D4641134E1}" src="https://github.com/user-attachments/assets/eeace999-7217-4359-b677-62bd2c45751b" />
+
 Esquema de la PCB.
 
 ![image](https://github.com/user-attachments/assets/db10893f-e55e-48ab-971e-b9dcdc386a5f)
+
+
 
 ![image](https://github.com/user-attachments/assets/2e706b93-766c-45e6-8927-261293a4f9d7)
 
